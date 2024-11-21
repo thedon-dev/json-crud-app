@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Jack Victor",
+      "email": "optimusprime@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Monica",
+      "email": "hsdydhadk@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Precious Jake3",
+      "email": "preciousstone3@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "Thomas Brush",
+      "email": "brushign_always@gmail.com"
+    },
+    {
+      "id": "6",
+      "name": "Maddison Thomas",
+      "email": "madmaddison@gmail.com"
+    },
+    {
+      "id": "8",
+      "name": "Testing2",
+      "email": "hello@gmail.com"
+    },
+    {
+      "id": "85af",
+      "name": "James",
+      "email": "themin@gmail.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "postDetail": "Hello Everybody",
+      "posterName": "Jack Victor"
+    },
+    {
+      "id": "2",
+      "postDetail": "Danger is Coming",
+      "posterName": "David Chika"
+    },
+    {
+      "id": "3",
+      "postDetail": "I'm enjoying this",
+      "posterName": "Precious Jake3"
+    },
+    {
+      "id": "4",
+      "postDetail": "I will be going back to school next year",
+      "posterName": "Thomas Brush"
+    }
+  ]
+}
